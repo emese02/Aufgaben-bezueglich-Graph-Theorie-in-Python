@@ -1,1 +1,1 @@
-# Aufgaben-bezueglich-Graph-Theorie-in-Python
+# Aufgaben bezüglich Graph-Theorie in Python
